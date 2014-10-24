@@ -1,0 +1,96 @@
+/* This is a css stylesheet for Theresa Henderson's Portfolio Project */
+header img {
+    max-width: 45%;
+    }
+
+body {
+    background-color: #FFF5EE;
+    }
+
+p {
+    text-align: center;
+    color: #6B8E23;
+    padding: 30px; 30px; 30px; 30px;
+    font-size: .5em;
+    font-family: serif;
+    }
+
+h1 {
+    color: #556B2F;
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    font-family: serif;
+    }
+
+h2 {
+    color: #556B2F;
+    text-align: center;
+    font-size: 2.1em;
+    letter-spacing: 2px;
+    font-family: serif;
+    }
+
+h3 {
+    color: #556B2F;
+    text-align: center;
+    font-size: 1.7em;
+    letter-spacing: 2px;
+    font-family: serif;
+    }
+
+h4 {
+    color: #556B2F;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 1.3em;
+    font-family: serif;
+    }
+
+h5 {
+    color: #556B2F;
+    text-align: center;
+    font-size: .9em;
+    font-family: serif;
+    }
+
+p::first-letter {
+    color: #556B2F;
+    font-size: 2em;
+    }
+
+a:link {
+    color: #191970;
+    }
+
+a:visited {
+    color: #4682B4;
+    }
+
+a:hover {
+    color: #4682B4;
+    }
+
+a:active {
+    color: #4682B4;
+    }
+
+img {
+    max-width: 100px;
+    }
+
+img.normal {
+    height: 100%;
+    }
+
+img.big {
+    height: 120%;
+    }
+
+img.small {
+    height: 80%;
+    }
+
+image.square {
+    height: 55px; width: 55px;
+    }
