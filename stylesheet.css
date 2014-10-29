@@ -4,19 +4,19 @@ header img {
     }
 
 body {
-    background-color: #FFF5EE;
+    background-color: #FFFFFF;
     }
 
 p {
     text-align: center;
-    color: #6B8E23;
-    padding: 30px; 30px; 30px; 30px;
-    font-size: .5em;
+    color: #191919;
+    padding: 0; 30px; 0; 30px;
+    font-size: 1em;
     font-family: serif;
     }
 
 h1 {
-    color: #556B2F;
+    color: 	#4A77A3;
     text-align: center;
     font-size: 2.5em;
     letter-spacing: 2px;
@@ -24,7 +24,7 @@ h1 {
     }
 
 h2 {
-    color: #556B2F;
+    color: 	#4A77A3;
     text-align: center;
     font-size: 2.1em;
     letter-spacing: 2px;
@@ -32,7 +32,7 @@ h2 {
     }
 
 h3 {
-    color: #556B2F;
+    color: 	#4A77A3;
     text-align: center;
     font-size: 1.7em;
     letter-spacing: 2px;
@@ -40,7 +40,7 @@ h3 {
     }
 
 h4 {
-    color: #556B2F;
+    color: #4A77A3;
     text-align: center;
     letter-spacing: 2px;
     font-size: 1.3em;
@@ -48,15 +48,15 @@ h4 {
     }
 
 h5 {
-    color: #556B2F;
+    color: 	#4A77A3;
     text-align: center;
     font-size: .9em;
     font-family: serif;
     }
 
 p::first-letter {
-    color: #556B2F;
-    font-size: 2em;
+    color: #4A77A3;
+    font-size: 1.25em;
     }
 
 a:link {
@@ -77,6 +77,7 @@ a:active {
 
 img {
     max-width: 100px;
+    vertical-align: middle;
     }
 
 img.normal {
@@ -94,3 +95,20 @@ img.small {
 image.square {
     height: 55px; width: 55px;
     }
+
+ul  {color: #191919;
+    }
+
+li  {color:#191919;
+    }
+
+nav {
+    text-align: center;
+    }
+        
+ footer {
+     text-align: center;
+     {
+     
+
+
